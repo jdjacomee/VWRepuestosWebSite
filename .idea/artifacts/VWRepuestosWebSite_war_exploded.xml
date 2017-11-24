@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="VWRepuestosWebSite:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/VWRepuestosWebSite_war_exploded.war</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="VWRepuestosWebSite/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="VWRepuestosWebSite" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
